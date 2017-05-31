@@ -1,0 +1,1 @@
+devenv TypeTable.sln /rebuild debug
